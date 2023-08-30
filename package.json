@@ -15,5 +15,9 @@
     "@types/node": "^20.4.5",
     "tsx": "^3.12.7",
     "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "starknet": "^5.14.1"
   }
 }
